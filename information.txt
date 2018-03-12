@@ -1,0 +1,12 @@
+Student Alumni Database
+
+Developed By: Team_R&D_v2
+
+Team Member:
+Pritom Chowdhury 
+id# 13 03 0302 0005
+Rocksar Sultana Smriti
+id# 14 02 0302 0003
+Ahemd Dider Rahat
+id# 14 02 0302 0101
+Dept. of CSE, NEUB 
